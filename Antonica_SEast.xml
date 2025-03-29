@@ -153,7 +153,7 @@
 	<Rect X = 85 Y = 400 CX = 50 CY = 40/>
 </Link>
 -->
-
+<!-- 
 <!-- New Dulak Harbor Location. -->
 <Label Text = "Dulak" X = 155 Y = 400/>
 <Label Text = "Harbor" X = 152 Y = 415/>
@@ -186,7 +186,7 @@
 <Label Text = "Fury" X = 70 Y = 475/>
 <Link ClickAction = 2 LinkName = "" FileToOpen = "hatesfury" ToolTip = "Hate's Fury">
 	<Rect X = 65 Y = 455 CX = 50 CY = 40/>
-</Link>
+</Link> -->
 
 <Label Text = "To Stonebrunt" X = 280 Y = 480/>
 <Label Text = "Mountains" X = 292 Y = 495/>
