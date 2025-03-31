@@ -1,0 +1,194 @@
+<Background Image = "Atlas_bkg_256.tga" CX = 128 CY = 128 />
+<Image File = "Antonica_north_01.tga">
+	<Rect X = 0 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_north_02.tga">
+	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_north_03.tga">
+	<Rect X = 512 Y = 0 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_north_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_north_05.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Antonica_north_06.tga">
+	<Rect X = 512 Y = 256 CX = 256 CY = 256/>
+</Image>
+
+<Image File = "map_icon.tga">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Image>
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
+	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "halas" ToolTip = "Halas">
+	<Rect X = 8 Y = 81 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "everfrost" ToolTip = "Everfrost">
+	<Rect X = 54 Y = 135 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "blackburrow" ToolTip = "Blackburrow">
+	<Rect X = 54 Y = 184 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qrg" ToolTip = "Sureffall Glade">
+	<Rect X = 7 Y = 232 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qeytoqrg" ToolTip = "Qeynos Hills">
+	<Rect X = 54 Y = 276 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qeynos2" ToolTip = "North Qeynos">
+	<Rect X = 54 Y = 341 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qcat" ToolTip = "Qeynos Catacombs">
+	<Rect X = 107 Y = 402 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qeynos" ToolTip = "South Qeynos">
+	<Rect X = 54 Y = 458 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Odus.xml" ToolTip = "To Erud's Crossing">
+	<Rect X = 8 Y = 400 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "Permafrost" ToolTip = "Permafrost">
+	<Rect X = 119 Y = 70 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "mistythicket" ToolTip = "Misty Thicket">
+	<Rect X = 156 Y = 143 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "runnyeye" ToolTip = "Runnyeye">
+	<Rect X = 156 Y = 198 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "qey2hh1" ToolTip = "West Karana">
+	<Rect X = 155 Y = 276 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "paw" ToolTip = "Splitpaw">
+	<Rect X = 219 Y = 380 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_south.xml" ToolTip = "To lake Rathetear">
+	<Rect X = 245 Y = 460 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "southkarana" ToolTip = "South Karana">
+	<Rect X = 254 Y = 336 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "northkarana" ToolTip = "North Karana">
+	<Rect X = 254 Y = 276 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "xorbb" ToolTip = "Gorge of King Xorbb">
+	<Rect X = 254 Y = 193 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "kithicor" ToolTip = "Kithicor Forest">
+	<Rect X = 254 Y = 143 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "rivervale" ToolTip = "Rivervale">
+	<Rect X = 226 Y = 79 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "highkeep" ToolTip = "Highpass Keep">
+	<Rect X = 353 Y = 328 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "eastkarana" ToolTip = "East Karana">
+	<Rect X = 353 Y = 276 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "highpasshold" ToolTip = "Highpass Hold">
+	<Rect X = 353 Y = 220 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "commons" ToolTip = "West Commonlands">
+	<Rect X = 353 Y = 158 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "befallen" ToolTip = "Befallen">
+	<Rect X = 353 Y = 107 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "ecommons" ToolTip = "East Commonlands">
+	<Rect X = 453 Y = 180 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "soltemple" ToolTip = "Temple of Solusek Ro">
+	<Rect X = 459 Y = 104 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "soldungb" ToolTip = "Nagafen's Lair">
+	<Rect X = 512 Y = 38 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "soldunga" ToolTip = "Solusek's Eye">
+	<Rect X = 613 Y = 38 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "lavastorm" ToolTip = "Lavastorm Mountains">
+	<Rect X = 561 Y = 105 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "najena" ToolTip = "Najena">
+	<Rect X = 666 Y = 110 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "nektulos" ToolTip = "Nektulos Forest">
+	<Rect X = 561 Y = 166 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "neriaka" ToolTip = "Neriak Foreign Quarter">
+	<Rect X = 666 Y = 166 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "neriakb" ToolTip = "Neriak Commons">
+	<Rect X = 666 Y = 220 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "neriakc" ToolTip = "Neriak Third Gate">
+	<Rect X = 666 Y = 276 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "freportn" ToolTip = "North Freeport">
+	<Rect X = 554 Y = 250 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "freeportwest" ToolTip = "West Freeport">
+	<Rect X = 554 Y = 300 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "freporte" ToolTip = "East Freeport">
+	<Rect X = 554 Y = 347 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "nro" ToolTip = "North Ro">
+	<Rect X = 554 Y = 399 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_south.xml" ToolTip = "To Oasis of Marr">
+	<Rect X = 554 Y = 450 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 2 LinkName = "" FileToOpen = "oot" ToolTip = "To Ocean of Tears">
+	<Rect X = 674 Y = 347 CX = 85 CY = 50/>
+</Link>
+
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Velious.xml" ToolTip = "To Iceclad Ocean">
+	<Rect X = 673 Y = 399 CX = 85 CY = 50/>
+</Link>

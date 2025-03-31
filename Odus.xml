@@ -6,10 +6,16 @@
 	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
 </Image>
 <Image File = "Odus_03.tga">
-	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+	<Rect X = 512 Y = 0 CX = 256 CY = 256/>
 </Image>
 <Image File = "Odus_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Odus_05.tga">
 	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Odus_06.tga">
+	<Rect X = 512 Y = 256 CX = 256 CY = 256/>
 </Image>
 
 <Image File = "map_icon.tga">
@@ -20,90 +26,87 @@
 </Link>
 
 
-<Label Text = "To South" X = 420 Y = 35/>
-<Label Text = "Qeynos" X = 420 Y = 50/>
-<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_NWest.xml" ToolTip = "To South Qeynos - Use teleporter on dock">
-	<Rect X = 420 Y = 35 CX = 60 CY = 30/>
+<!-- <Label Text = "To South" X = 420 Y = 35/> -->
+<!-- <Label Text = "Qeynos" X = 420 Y = 50/> -->
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_north.xml" ToolTip = "To South Qeynos - Use teleporter on dock">
+	<Rect X = 663 Y = 46 CX = 85 CY = 33/>
 </Link>
 
-<Label Text = "Erud's" X = 420 Y = 80/>
-<Label Text = "Crossing" X = 420 Y = 95/>
+<!-- <Label Text = "Erud's" X = 420 Y = 80/>
+<Label Text = "Crossing" X = 420 Y = 95/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "erudsxing" ToolTip = "Erud's Crossing">
-	<Rect X = 420 Y = 80 CX = 60 CY = 40/>
+	<Rect X = 663 Y = 141 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Erudin" X = 420 Y = 160/>
+<!-- <Label Text = "Erudin" X = 420 Y = 160/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "erudnext" ToolTip = "Erudin">
-	<Rect X = 420 Y = 160 CX = 60 CY = 15/>
+	<Rect X = 557 Y = 146 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Erudin" X = 320 Y = 80/>
-<Label Text = "Palace" X = 320 Y = 95/>
+<!-- <Label Text = "Erudin" X = 320 Y = 80/>
+<Label Text = "Palace" X = 320 Y = 95/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "erudnint" ToolTip = "Erudin Palace">
-	<Rect X = 320 Y = 85 CX = 60 CY = 40/>
+	<Rect X = 452 Y = 141 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Toxxulia" X = 420 Y = 220/>
-<Label Text = "Forest" X = 420 Y = 235/>
+<!-- <Label Text = "Toxxulia" X = 420 Y = 220/>
+<Label Text = "Forest" X = 420 Y = 235/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "toxxulia" ToolTip = "Toxxulia Forest">
-	<Rect X = 420 Y = 220 CX = 90 CY = 20/>
+	<Rect X = 557 Y = 207 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "The Hole" X = 420 Y = 295/>
+<!-- <Label Text = "The Hole" X = 420 Y = 295/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "hole" ToolTip = "The Hole">
-	<Rect X = 420 Y = 295 CX = 60 CY = 40/>
+	<Rect X = 557 Y = 347 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Paineel" X = 320 Y = 220/>
+<!-- <Label Text = "Paineel" X = 320 Y = 220/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "paineel" ToolTip = "Paineel">
-	<Rect X = 320 Y = 220 CX = 60 CY = 15/>
+	<Rect X = 557 Y = 280 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "The" X = 320 Y = 300/>
-<Label Text = "Warrens" X = 320 Y = 315/>
+<!-- <Label Text = "The" X = 320 Y = 300/>
+<Label Text = "Warrens" X = 320 Y = 315/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "warrens" ToolTip = "The Warrens">
-	<Rect X = 320 Y = 300 CX = 50 CY = 40/>
+	<Rect X = 451 Y = 275 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Stonebrunt" X = 320 Y = 375/>
-<Label Text = "Mountains" X = 320 Y = 390/>
+<!-- <Label Text = "Stonebrunt" X = 320 Y = 375/>
+<Label Text = "Mountains" X = 320 Y = 390/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "stonebrunt" ToolTip = "Stonebrunt Mountains">
-	<Rect X = 320 Y = 375 CX = 60 CY = 40/>
+	<Rect X = 339 Y = 274 CX = 85 CY = 50/>
 </Link>
 
 
-<!-- New Dulak Harbor Location. -->
-<Label Text = "Dulak" X = 160 Y = 375/>
-<Label Text = "Harbor" X = 160 Y = 390/>
+<!-- <Label Text = "Dulak" X = 160 Y = 375/>
+<Label Text = "Harbor" X = 160 Y = 390/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "Dulak" ToolTip = "DulakHarbor">
-	<Rect X = 160 Y = 375 CX = 50 CY = 40/>
+	<Rect X = 120 Y = 342 CX = 85 CY = 4500/>
 </Link>
 
-<!-- New Crypt of Nadox Location. -->
-<Label Text = "Crypt of" X = 50 Y = 290/>
-<Label Text = "Nadox" X = 50 Y = 305/>
+<!-- <Label Text = "Crypt of" X = 50 Y = 290/>
+<Label Text = "Nadox" X = 50 Y = 305/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "nadox" ToolTip = "Crypt of Nadox">
-	<Rect X = 50 Y = 290 CX = 50 CY = 40/>
+	<Rect X = 119 Y = 207 CX = 85 CY = 50/>
 </Link>
 
-<!-- New Torgiran Mines Location. -->
-<Label Text = "Torgiran" X = 50 Y = 375/>
-<Label Text = "Mines" X = 50 Y = 390/>
+<!-- <Label Text = "Torgiran" X = 50 Y = 375/>
+<Label Text = "Mines" X = 50 Y = 390/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "Torgiran" ToolTip = "Torgiran Mines">
-	<Rect X = 50 Y = 375 CX = 50 CY = 40/>
+	<Rect X = 15 Y = 274 CX = 85 CY = 50/>
 </Link>
 
-<!-- New Gulf of Gunthak Location. -->
-<Label Text = "Gulf of" X = 160 Y = 290/>
-<Label Text = "Gunthak" X = 160 Y = 305/>
+
+<!-- <Label Text = "Gulf of" X = 160 Y = 290/>
+<Label Text = "Gunthak" X = 160 Y = 305/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "gunthak" ToolTip = "Gulf of Gunthak - Click ship door in Stonebrunt Mountains">
-	<Rect X = 160 Y = 290 CX = 50 CY = 40/>
+	<Rect X = 227 Y = 274 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Hate's" X = 50 Y = 210/>
-<Label Text = "Fury" X = 50 Y = 225/>
+<!-- <Label Text = "Hate's" X = 50 Y = 210/>
+<Label Text = "Fury" X = 50 Y = 225/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "hatesfury" ToolTip = "Hate's Fury">
-	<Rect X = 50 Y = 210 CX = 50 CY = 40/>
+	<Rect X = 119 Y = 146 CX = 85 CY = 38/>
 </Link>
 
 

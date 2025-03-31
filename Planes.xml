@@ -6,10 +6,16 @@
 	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
 </Image>
 <Image File = "Planes_03.tga">
-	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+	<Rect X = 512 Y = 0 CX = 256 CY = 256/>
 </Image>
 <Image File = "Planes_04.tga">
 	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_05.tga">
+	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Planes_06.tga">
+	<Rect X = 512 Y = 256 CX = 256 CY = 256/>
 </Image>
 <Image File = "map_icon.tga">
 	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
@@ -18,7 +24,7 @@
 	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
 </Link>
 
-<Label Text = "Tranquility" X = 230 Y = 260/>
+<!-- <Label Text = "Tranquility" X = 230 Y = 260/>
 <Link ClickAction = 2 LinkName = "" FileToOpen = "potranquility" ToolTip = "Tranquility">
 	<Rect X = 230 Y = 260 CX = 40 CY = 15/>
 </Link>
@@ -148,4 +154,4 @@
 <Label Text = "Torment" X = 155 Y = 300/>
 <Link ClickAction = 2 LinkName = "" FileToOpen = "potorment" ToolTip = "Torment">
 	<Rect X = 155 Y = 300 CX = 40 CY = 15/>
-</Link>
+</Link> -->

@@ -6,54 +6,60 @@
 	<Rect X = 256 Y = 0 CX = 256 CY = 256/>
 </Image>
 <Image File = "Velious_03.tga">
-	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+	<Rect X = 512 Y = 0 CX = 256 CY = 256/>
 </Image>
 <Image File = "Velious_04.tga">
+	<Rect X = 0 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Velious_05.tga">
 	<Rect X = 256 Y = 256 CX = 256 CY = 256/>
+</Image>
+<Image File = "Velious_06.tga">
+	<Rect X = 512 Y = 256 CX = 256 CY = 256/>
 </Image>
 
 <Image File = "map_icon.tga">
-	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+	<Rect X = 5 Y = 5 CX = 64 CY = 64/>
 </Image>
 <Link ClickAction = 1 LinkName = "" FileToOpen = "Default.xml" ToolTip = "World">
-	<Rect X = 0 Y = 0 CX = 64 CY = 64/>
+	<Rect X = 5 Y = 5 CX = 64 CY = 64/>
 </Link>
 
-<Label Text = "Eastern" X = 310 Y = 235/>
-<Label Text = "Wastes" X = 310 Y = 250/>
+<!-- <Label Text = "Eastern" X = 310 Y = 235/>
+<Label Text = "Wastes" X = 310 Y = 250/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "eastwastes" ToolTip = "Eastern Wastes">
-	<Rect X = 310 Y = 235 CX = 50 CY = 40/>
+	<Rect X = 545 Y = 235 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Sleeper's" X = 310 Y = 155/>
-<Label Text = "Tomb" X = 310 Y = 170/>
+<!-- <Label Text = "Sleeper's" X = 310 Y = 155/>
+<Label Text = "Tomb" X = 310 Y = 170/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "sleeper" ToolTip = "Sleeper's Tomb">
-	<Rect X = 310 Y = 155 CX = 50 CY = 40/>
+	<Rect X = 545 Y = 306 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Iceclad" X = 435 Y = 330/>
-<Label Text = "Ocean" X = 435 Y = 345/>
+<!-- <Label Text = "Iceclad" X = 435 Y = 330/>
+<Label Text = "Ocean" X = 435 Y = 345/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "iceclad" ToolTip = "Iceclad Ocean">
-	<Rect X = 435 Y = 330 CX = 50 CY = 40/>
+	<Rect X = 659 Y = 235 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Tower of" X = 435 Y = 210/>
+<!-- <Label Text = "Tower of" X = 435 Y = 210/>
 <Label Text = "Frozen" X = 435 Y = 225/>
-<Label Text = "Shadow" X = 435 Y = 240/>
+<Label Text = "Shadow" X = 435 Y = 240/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "frozenshadow" ToolTip = "Tower of Frozen Shadow">
-	<Rect X = 435 Y = 210 CX = 50 CY = 40/>
+	<Rect X = 659 Y = 304 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "To North" X = 445 Y = 275/>
-<Label Text = "Ro" X = 455 Y = 290/>
-<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_SEast.xml" ToolTip = "To North Ro">
-	<Rect X = 445 Y = 270 CX = 50 CY = 40/>
+<!-- <Label Text = "To North" X = 445 Y = 275/>
+<Label Text = "Ro" X = 455 Y = 290/> -->
+<Link ClickAction = 1 LinkName = "" FileToOpen = "Antonica_north.xml" ToolTip = "To North Ro">
+	<Rect X = 659 Y = 46 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Crystal" X = 430 Y = 135/>
-<Label Text = "Caverns" X = 430 Y = 150/>
+<!-- <Label Text = "Crystal" X = 430 Y = 135/>
+<Label Text = "Caverns" X = 430 Y = 150/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "crystal" ToolTip = "Crystal Caverns">
-	<Rect X = 430 Y = 145 CX = 50 CY = 40/>
+	<Rect X = 546 Y = 166 CX = 85 CY = 50/>
 </Link>
 
 <!-- <Label Text = "To East Wastes:" X = 370  Y = 120/>
@@ -63,86 +69,86 @@
 	<Rect X = 370 Y = 120 CX = 92 CY = 45/>
 </Link> -->
 
-<Label Text = "Great" X = 180 Y = 190/>
-<Label Text = "Divide" X = 180 Y = 205/>
+<!-- <Label Text = "Great" X = 180 Y = 190/>
+<Label Text = "Divide" X = 180 Y = 205/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "greatdivide" ToolTip = "Great Divide">
-	<Rect X = 180 Y = 190 CX = 40 CY = 40/>
+	<Rect X = 432 Y = 239 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Kael" X = 180 Y = 275/>
-<Label Text = "Drakkel" X = 180 Y = 290/>
+<!-- <Label Text = "Kael" X = 180 Y = 275/>
+<Label Text = "Drakkel" X = 180 Y = 290/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "kael" ToolTip = "Kael Drakkel">
-	<Rect X = 180 Y = 275 CX = 40 CY = 40/>
+	<Rect X = 432 Y = 301 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Velketor's" X = 185 Y = 115/>
-<Label Text = "Labyrinth" X = 185 Y = 130/>
+<!-- <Label Text = "Velketor's" X = 185 Y = 115/>
+<Label Text = "Labyrinth" X = 185 Y = 130/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "velketor" ToolTip = "Velketor's Labyrinth">
-	<Rect X = 185 Y = 115 CX = 50 CY = 40/>
+	<Rect X = 325 Y = 234 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Thurgadin" X = 300 Y = 95/>
+<!-- <Label Text = "Thurgadin" X = 300 Y = 95/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "thurgadina" ToolTip = "Thurgadin">
-	<Rect X = 300 Y = 95 CX = 60 CY = 15/>
+	<Rect X = 432 Y = 171 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Icewell" X = 300 Y = 20/>
-<Label Text = "Keep" X = 300 Y = 35/>
+<!-- <Label Text = "Icewell" X = 300 Y = 20/>
+<Label Text = "Keep" X = 300 Y = 35/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "thurgadinb" ToolTip = "Icewell Keep">
-	<Rect X = 300 Y = 20 CX = 40 CY = 40/>
+	<Rect X = 432 Y = 101 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Wakening" X = 300 Y = 325/>
-<Label Text = "Lands" X = 300 Y = 340/>
+<!-- <Label Text = "Wakening" X = 300 Y = 325/>
+<Label Text = "Lands" X = 300 Y = 340/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "wakening" ToolTip = "Wakening Lands">
-	<Rect X = 300 Y = 325 CX = 40 CY = 40/>
+	<Rect X = 325 Y = 303 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Plane" X = 420 Y = 415/>
-<Label Text = "of Growth" X = 420 Y = 430/>
+<!-- <Label Text = "Plane" X = 420 Y = 415/>
+<Label Text = "of Growth" X = 420 Y = 430/> -->
 <Link ClickAction = 1 LinkName = "" FileToOpen = "PlanesOther.xml" ToolTip = "To Plane of Growth">
-	<Rect X = 420 Y = 415 CX = 40 CY = 40/>
+	<Rect X = 325 Y = 374 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Skyshrine" X = 310 Y = 400/>
+<!-- <Label Text = "Skyshrine" X = 310 Y = 400/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "Skyshrine" ToolTip = "Skyshrine">
-	<Rect X = 310 Y = 400 CX = 40 CY = 15/>
+	<Rect X = 213 Y = 306 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Cobalt" X = 180 Y = 355/>
-<Label Text = "Scar" X = 185 Y = 370/>
+<!-- <Label Text = "Cobalt" X = 180 Y = 355/>
+<Label Text = "Scar" X = 185 Y = 370/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "cobaltscar" ToolTip = "Cobalt Scar">
-	<Rect X = 180 Y = 355 CX = 40 CY = 40/>
+	<Rect X = 110 Y = 306 CX = 85 CY = 38/>
 </Link>
 
-<Label Text = "Siren's" X = 180 Y = 435/>
-<Label Text = "Grotto" X = 180 Y = 450/>
+<!-- <Label Text = "Siren's" X = 180 Y = 435/>
+<Label Text = "Grotto" X = 180 Y = 450/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "sirens" ToolTip = "Siren's Grotto">
-	<Rect X = 180 Y = 435 CX = 40 CY = 40/>
+	<Rect X = 110 Y = 235 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Western" X = 45 Y = 360/>
-<Label Text = "Wastes" X = 45 Y = 375/>
+<!-- <Label Text = "Western" X = 45 Y = 360/>
+<Label Text = "Wastes" X = 45 Y = 375/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "westwastes" ToolTip = "Western Wastes">
-	<Rect X = 45 Y = 360 CX = 40 CY = 40/>
+	<Rect X = 110 Y = 166 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Dragon" X = 45 Y = 440/>
-<Label Text = "Necropolis" X = 45 Y = 455/>
+<!-- <Label Text = "Dragon" X = 45 Y = 440/>
+<Label Text = "Necropolis" X = 45 Y = 455/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "necropolis" ToolTip = "Dragon Necropolis">
-	<Rect X = 45 Y = 440 CX = 40 CY = 40/>
+	<Rect X = 11 Y = 166 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Temple of" X = 45 Y = 270/>
-<Label Text = "Veeshan" X = 45 Y = 285/>
+<!-- <Label Text = "Temple of" X = 45 Y = 270/>
+<Label Text = "Veeshan" X = 45 Y = 285/> -->
 <Link ClickAction = 2 LinkName = "" FileToOpen = "templeveeshan" ToolTip = "Temple of Veeshan">
-	<Rect X = 45 Y = 270 CX = 40 CY = 40/>
+	<Rect X = 213 Y = 166 CX = 85 CY = 50/>
 </Link>
 
-<Label Text = "Plane of" X = 45 Y = 185/>
-<Label Text = "Mischief" X = 45 Y = 200/>
+<!-- <Label Text = "Plane of" X = 45 Y = 185/>
+<Label Text = "Mischief" X = 45 Y = 200/> -->
 <Link ClickAction = 1 LinkName = "" FileToOpen = "PlanesOther.xml" ToolTip = "To Plane of Mischief">
-	<Rect X = 45 Y = 185 CX = 40 CY = 40/>
+	<Rect X = 213 Y = 97 CX = 85 CY = 50/>
 </Link>
 
 <!-- <Label Text = "To The Breeding" X = 100  Y = 135/>
